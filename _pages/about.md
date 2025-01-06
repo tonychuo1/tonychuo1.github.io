@@ -26,6 +26,8 @@ during Fall 2025.
 You can access my CV [here](https://tonychuo1.github.io/assets/pdf/cv.pdf).
 
 ## Working Papers:
+
 ### E-Cigarette Taxation and Queer Youth
+
 with Chad Cotti, Charles Courtemanche, Johanna Catherine Maclean, Erik Nesson, and Joseph Sabia
 - [NBER](https://www.nber.org/papers/w33326) Working Paper
