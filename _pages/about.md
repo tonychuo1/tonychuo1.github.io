@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -19,13 +19,13 @@ social: false # true -- includes social icons at the bottom of the page
 ---
 
 Hi! I am a predoctoral research assistant at San Diego State University's 
-Center for Health Economics and Policy Studies. I plan to enter Ph.D. programs in Economics 
+Center for Health Economics and Policy Studies (CHEPS). 
+I plan to enter Ph.D. programs in Economics 
 during Fall 2025.
 
 You can access my CV [here](https://tonychuo1.github.io/assets/pdf/cv.pdf).
 
 ## Working Papers:
-
 ### E-Cigarette Taxation and Queer Youth
 with Chad Cotti, Charles Courtemanche, Johanna Catherine Maclean, Erik Nesson, and Joseph Sabia
 - [NBER](https://www.nber.org/papers/w33326) Working Paper
