@@ -13,14 +13,14 @@ email: tchuo9676@sdsu.edu # your email address
 # github_username: # your GitHub user name -- tonychuo1
 # gitlab_username: # your GitLab user name
 # ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id: #1010907 Inspire HEP author ID
+# inspirehep_id: #1010907 Inspire HEP author ID
 # instagram_id: # your instagram id
 # kaggle_id: # your kaggle id
 # keybase_username: # your keybase user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-# linkedin_username: anthonychuo # your LinkedIn user name
+linkedin_username: anthonychuo # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -29,8 +29,8 @@ inspirehep_id: #1010907 Inspire HEP author ID
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-rss_icon: true # set to true to show the RSS icon
-scholar_userid: # qc6CJjYAAAAJ your Google Scholar ID
+# rss_icon: true # set to true to show the RSS icon
+# scholar_userid: # qc6CJjYAAAAJ your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
@@ -42,7 +42,7 @@ scholar_userid: # qc6CJjYAAAAJ your Google Scholar ID
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
-# x_username: chuonomics # your X handle
+x_username: chuonomics # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
