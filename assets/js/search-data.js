@@ -39,25 +39,18 @@ ninja.data = [{
           window.open("mailto:%74%63%68%75%6F%39%36%37%36@%73%64%73%75.%65%64%75", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/", "_blank");
+          window.open("https://www.linkedin.com/in/anthonychuo", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-x',
+        title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=", "_blank");
+          window.open("https://twitter.com/chuonomics", "_blank");
         },
       },{
         id: 'social-custom_social',
