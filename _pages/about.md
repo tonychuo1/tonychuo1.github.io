@@ -15,7 +15,7 @@ profile:
 
 news: false #true -- includes a list of news items
 selected_papers: false #true -- includes a list of papers marked as "selected={true}"
-social: false # true -- includes social icons at the bottom of the page
+social: true # -- includes social icons at the bottom of the page
 ---
 
 Hi! I'm a predoctoral research assistant at San Diego State University's 
