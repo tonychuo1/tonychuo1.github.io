@@ -18,16 +18,17 @@ selected_papers: false #true -- includes a list of papers marked as "selected={t
 social: true # -- includes social icons at the bottom of the page
 ---
 
-Hi! I'm a predoctoral research assistant at San Diego State University's 
-Center for Health Economics and Policy Studies (CHEPS). 
-I plan to enter Ph.D. programs in Economics 
-during Fall 2025.
+Hi! I'm currently a predoctoral research assistant at San Diego State University's 
+Center for Health Economics and Policy Studies 
+([CHEPS](https://cheps.sdsu.edu/)). 
+In Fall 2025, I will enter the Ph.D. Economics program at 
+the University of Texas at Austin.
 
 You can access my CV [here](https://tonychuo1.github.io/assets/pdf/cv.pdf).
 
 ## Working Papers:
 
-### E-Cigarette Taxation and Queer Youth
+__E-Cigarette Taxation and Queer Youth__
 
 with Chad Cotti, Charles Courtemanche, Johanna Catherine Maclean, Erik Nesson, and Joseph Sabia
-- [NBER](https://www.nber.org/papers/w33326) Working Paper
+- [NBER Working Paper](https://www.nber.org/papers/w33326)
