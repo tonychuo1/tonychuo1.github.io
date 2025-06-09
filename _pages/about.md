@@ -28,7 +28,10 @@ You can access my CV [here](https://tonychuo1.github.io/assets/pdf/cv.pdf).
 
 ## Working Papers:
 
-__E-Cigarette Taxation and Queer Youth__
+__Do Vaping Taxes Tip the Scale? The Effect of E-Cigarette
+Taxation on Obesity__, 
+with Charles Courtemanche, Tessie Krishna, Yang Liang, and Joseph Sabia ([NBER Working Paper](https://www.nber.org/papers/w33890))
 
-with Chad Cotti, Charles Courtemanche, Johanna Catherine Maclean, Erik Nesson, and Joseph Sabia
-- [NBER Working Paper](https://www.nber.org/papers/w33326)
+__E-Cigarette Taxation and Queer Youth__, 
+with Chad Cotti, Charles Courtemanche, Johanna Catherine Maclean, Erik Nesson, and Joseph Sabia 
+([NBER Working Paper](https://www.nber.org/papers/w33326))
