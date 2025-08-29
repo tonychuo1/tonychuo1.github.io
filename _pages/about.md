@@ -18,11 +18,12 @@ selected_papers: false #true -- includes a list of papers marked as "selected={t
 social: true # -- includes social icons at the bottom of the page
 ---
 
-Hi! I'm currently a predoctoral research assistant at San Diego State University's 
-Center for Health Economics and Policy Studies 
-([CHEPS](https://cheps.sdsu.edu/)). 
-In Fall 2025, I will enter the Ph.D. Economics program at 
+Hi! I'm an Economics Ph.D. student at
 the University of Texas at Austin.
+Previously, I was a predoctoral research assistant
+at San Diego State University's
+Center for Health Economics and Policy Studies
+([CHEPS](https://cheps.sdsu.edu/)).
 
 You can access my CV [here](https://tonychuo1.github.io/assets/pdf/cv.pdf).
 
