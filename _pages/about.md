@@ -27,12 +27,13 @@ Center for Health Economics and Policy Studies
 
 You can access my CV [here](https://tonychuo1.github.io/assets/pdf/cv.pdf).
 
-## Working Papers:
+## Working Papers
 
-__Do Vaping Taxes Tip the Scale? The Effect of E-Cigarette
-Taxation on Obesity__, 
-with Charles Courtemanche, Tessie Krishna, Yang Liang, and Joseph Sabia ([NBER Working Paper](https://www.nber.org/papers/w33890))
+__[Do Vaping Taxes Tip the Scale? The Effect of E-Cigarette
+Taxation on Obesity](https://www.nber.org/papers/w33890)__, 
+with Charles Courtemanche, Tessie Krishna, Yang Liang, and Joseph Sabia (NBER Working Paper #33890)
 
-__E-Cigarette Taxation and Queer Youth__, 
-with Chad Cotti, Charles Courtemanche, Johanna Catherine Maclean, Erik Nesson, and Joseph Sabia 
-([NBER Working Paper](https://www.nber.org/papers/w33326))
+## Published Papers
+
+__[The effects of e-cigarette and cigarette policies on queer youth](https://doi.org/10.1016/j.jhealeco.2026.103116)__,
+with Chad Cotti, Charles Courtemanche, Johanna Catherine Maclean, Erik Nesson, and Joseph Sabia, _Journal of Health Economics_, 2026
